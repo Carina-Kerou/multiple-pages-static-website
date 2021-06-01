@@ -1,0 +1,27 @@
+body {
+  background: #c2dae7;
+}
+
+h1,
+p {
+  text-align: center;
+  color: rgb(114, 3, 44);
+}
+
+img {
+  border: solid 3px #b2446e;
+  border-radius: 30px;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+.navigation-links {
+  margin: 0 auto;
+  padding: 5px;
+  color: #b2446e;
+}
+
+.email-link {
+  color: #b2446e;
+}
