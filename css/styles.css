@@ -3,10 +3,14 @@ body {
 }
 
 h1,
+h2,
 p {
   text-align: center;
   color: rgb(114, 3, 44);
   margin: 30px;
+}
+h2 {
+  font-size: 34px;
 }
 
 img {
@@ -25,4 +29,8 @@ footer {
 
 .email-link {
   color: #b2446e;
+}
+
+.gallery-description {
+  font-size: 24px;
 }
